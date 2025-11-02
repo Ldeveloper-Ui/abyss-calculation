@@ -269,3 +269,5 @@ Made with 💀, ☕, and pure existential dread by The Ones Who Stared Too Long 
 ![Respect Level](https://img.shields.io/badge/Respect-99.1%25-red)
 
 </div>
+
+ thanks for read to this! hello from Linux!   / 🐧
