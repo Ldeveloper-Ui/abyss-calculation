@@ -213,7 +213,7 @@ pytest tests/ -v
 
 Want to add more suffering? We welcome contributions in any programming language! Just remember:
 
-1. It must calculate 1 + 1
+1. It must calculate 1 + 1 = 2
 2. It must output 2
 3. Everything else is up to your imagination (and pain tolerance)
 
@@ -258,4 +258,7 @@ Made with 💀, ☕, and pure existential dread by The Ones Who Stared Too Long 
 </div>
 ```
 ## made By
+
 > The Ones Who Stared Too Long Into The Compiler and The man🥺, Suxck
+
+__https://en.wikipedia.org/wiki/1+1=2__
